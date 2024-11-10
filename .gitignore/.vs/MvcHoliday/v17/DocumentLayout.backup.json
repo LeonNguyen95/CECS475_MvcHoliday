@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CSULB\\CECS 475\\Visual Studio\\MvcHoliday\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A91C8E32-7D5F-4F09-81B5-810E6A9024A6}|MvcHoliday.csproj|e:\\csulb\\cecs 475\\visual studio\\mvcholiday\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91C8E32-7D5F-4F09-81B5-810E6A9024A6}|MvcHoliday.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91C8E32-7D5F-4F09-81B5-810E6A9024A6}|MvcHoliday.csproj|e:\\csulb\\cecs 475\\visual studio\\mvcholiday\\services\\iholidaysapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91C8E32-7D5F-4F09-81B5-810E6A9024A6}|MvcHoliday.csproj|solutionrelative:services\\iholidaysapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91C8E32-7D5F-4F09-81B5-810E6A9024A6}|MvcHoliday.csproj|e:\\csulb\\cecs 475\\visual studio\\mvcholiday\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A91C8E32-7D5F-4F09-81B5-810E6A9024A6}|MvcHoliday.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shini\\AppData\\Local\\Temp\\2e12a0ef-1b36-45ac-b7af-4d9047d9f37e_HolidayLab.zip.37e\\HolidayLab\\HolidayLab\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91C8E32-7D5F-4F09-81B5-810E6A9024A6}|MvcHoliday.csproj|e:\\csulb\\cecs 475\\visual studio\\mvcholiday\\services\\holidaysapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91C8E32-7D5F-4F09-81B5-810E6A9024A6}|MvcHoliday.csproj|solutionrelative:services\\holidaysapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91C8E32-7D5F-4F09-81B5-810E6A9024A6}|MvcHoliday.csproj|e:\\csulb\\cecs 475\\visual studio\\mvcholiday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91C8E32-7D5F-4F09-81B5-810E6A9024A6}|MvcHoliday.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91C8E32-7D5F-4F09-81B5-810E6A9024A6}|MvcHoliday.csproj|e:\\csulb\\cecs 475\\visual studio\\mvcholiday\\models\\holidaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91C8E32-7D5F-4F09-81B5-810E6A9024A6}|MvcHoliday.csproj|solutionrelative:models\\holidaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HolidaysApiService.cs",
+              "DocumentMoniker": "E:\\CSULB\\CECS 475\\Visual Studio\\MvcHoliday\\Services\\HolidaysApiService.cs",
+              "RelativeDocumentMoniker": "Services\\HolidaysApiService.cs",
+              "ToolTip": "E:\\CSULB\\CECS 475\\Visual Studio\\MvcHoliday\\Services\\HolidaysApiService.cs",
+              "RelativeToolTip": "Services\\HolidaysApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:41:11.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\CSULB\\CECS 475\\Visual Studio\\MvcHoliday\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\CSULB\\CECS 475\\Visual Studio\\MvcHoliday\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wBkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T04:29:55.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IHolidaysApiService.cs",
+              "DocumentMoniker": "E:\\CSULB\\CECS 475\\Visual Studio\\MvcHoliday\\Services\\IHolidaysApiService.cs",
+              "RelativeDocumentMoniker": "Services\\IHolidaysApiService.cs",
+              "ToolTip": "E:\\CSULB\\CECS 475\\Visual Studio\\MvcHoliday\\Services\\IHolidaysApiService.cs",
+              "RelativeToolTip": "Services\\IHolidaysApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:34:25.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CSULB\\CECS 475\\Visual Studio\\MvcHoliday\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\CSULB\\CECS 475\\Visual Studio\\MvcHoliday\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:21:47.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CSULB\\CECS 475\\Visual Studio\\MvcHoliday\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CSULB\\CECS 475\\Visual Studio\\MvcHoliday\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T04:04:02.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HolidayModel.cs",
+              "DocumentMoniker": "E:\\CSULB\\CECS 475\\Visual Studio\\MvcHoliday\\Models\\HolidayModel.cs",
+              "RelativeDocumentMoniker": "Models\\HolidayModel.cs",
+              "ToolTip": "E:\\CSULB\\CECS 475\\Visual Studio\\MvcHoliday\\Models\\HolidayModel.cs",
+              "RelativeToolTip": "Models\\HolidayModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:38:22.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "98796e8e-6bbe-4fec-b03f-e441c7dfc4eb",
+        "Display": 1,
+        "X": 325,
+        "Y": 150,
+        "Width": 845,
+        "Height": 755,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shini\\AppData\\Local\\Temp\\2e12a0ef-1b36-45ac-b7af-4d9047d9f37e_HolidayLab.zip.37e\\HolidayLab\\HolidayLab\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shini\\AppData\\Local\\Temp\\2e12a0ef-1b36-45ac-b7af-4d9047d9f37e_HolidayLab.zip.37e\\HolidayLab\\HolidayLab\\Controllers\\HomeController.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:47:14.901Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
